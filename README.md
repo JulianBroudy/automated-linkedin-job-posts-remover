@@ -65,7 +65,7 @@ This script requires no traditional installation. However, you must have access 
 
 1. **Open LinkedIn:** Log in to your LinkedIn account and navigate to your list of archived jobs.
 2. **Open Developer Console:** Right-click anywhere on the page and select "Inspect" or use the shortcut `Ctrl+Shift+I` (Windows/Linux) or `Cmd+Opt+I` (Mac) to open the developer tools. Switch to the "Console" tab.
-3. **Run the Script:** Copy the JavaScript code from `removeArchivedJobs.js` in this repository and paste it into the console, then press Enter to run it.
+3. **Run the Script:** Copy the JavaScript code from [`autoRemoveLinkedInArchivedJobPosts.js`](autoRemoveLinkedInArchivedJobPosts.js) in this repository and paste it into the console, then press Enter to run it.
 4. **Monitoring:** The script will log actions to the console, indicating the removal of job posts and completion status.
 
 <br>
