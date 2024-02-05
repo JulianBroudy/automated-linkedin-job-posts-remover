@@ -17,6 +17,8 @@ This repository contains a JavaScript-based solution for automating the removal 
 
 ---
 
+<br>
+
 ## Motivation
 
 Just nailed the job hunt and landed the gig of your dreams? Congrats! But now, there's a tiny, niggling issue... You're a neat freak with a digital cleanliness streak a mile wide, and the sight of those archived LinkedIn job posts is like a smudge on your sparkling clean resume window. If the thought of all those "applied" and "closed" positions lurking in your profile makes your organizational senses tingle, fear not! You're in exactly the right place. Get ready to obliterate those pesky reminders of jobs past with the finesse of a professional digital declutterer. Let's turn that job post chaos into order, one automated click at a time. Welcome to your new sleep-inducing, archive-clearing haven.
@@ -73,6 +75,8 @@ This script requires no traditional installation. However, you must have access 
 This script automates user actions and does not use LinkedIn's official API. Therefore, it is subject to LinkedIn's terms of service regarding automated actions. Use it responsibly and at your own risk. Frequent use or misuse may lead to limitations on your LinkedIn account.
 
 ---
+
+<br>
 
 ## Contribution
 
