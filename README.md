@@ -1,6 +1,17 @@
 # Automated LinkedIn Archived Job Posts Remover
+[![Quick Start](https://img.shields.io/badge/Quick-Start-brightgreen?style=for-the-badge)](#usage)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 This repository contains a JavaScript-based solution for automating the removal of archived job posts on LinkedIn. It leverages DOM manipulation to programmatically click through the LinkedIn UI, identifying and removing job posts marked as archived.
+
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/warning.svg">
+>   <img alt="Warning" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/warning.svg">
+> </picture>
+>
+> **Important:** This script automates user actions and does not use LinkedIn's official API. It is subject to LinkedIn's terms of service regarding automated actions. Use responsibly to avoid account limitations.
+
+<br>
 
 ## Table of Contents
 - [Motivation](#motivation)
